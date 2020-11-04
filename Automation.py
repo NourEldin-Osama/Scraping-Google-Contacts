@@ -131,8 +131,3 @@ file.close()
 print("The script succeeded  '⚡🐍⚡🐲🐉⚡♥🔥☄♥'  ")
 
 # 100% Accuracy
-
-
-
-
-
